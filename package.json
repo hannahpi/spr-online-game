@@ -1,0 +1,27 @@
+{
+  "name": "spr-online-game",
+  "version": "0.1.0",
+  "description": "Online Scissors-Paper-Rock as online multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maks-ushakov/spr-online-game.git"
+  },
+  "keywords": [
+    "online",
+    "game",
+    "websockets"
+  ],
+  "author": "Projmaks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maks-ushakov/spr-online-game/issues"
+  },
+  "homepage": "https://github.com/maks-ushakov/spr-online-game#readme",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
+}
