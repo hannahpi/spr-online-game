@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/maks-ushakov/spr-online-game#readme",
   "dependencies": {
+    "npm": "^6.4.1",
+    "vue": "^2.5.17",
     "ws": "^6.0.0"
   }
 }
